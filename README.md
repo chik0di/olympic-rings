@@ -1,1 +1,2 @@
-# olympic-rings
+# About
+This project explores the Posey database to uncover business insights through SQL queries and exploratory data analysis. Our group examined key tables such as customers, orders, and products to identify trends, patterns, and opportunities that could support decision-making. Findings are summarized in a PowerPoint presentation with supporting visuals, highlighting metrics like top-selling products, regional performance, and customer behavior. The analysis process and presentation files are documented collaboratively in this repository, with each group member contributing via pull requests.
